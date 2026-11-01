@@ -1,5 +1,7 @@
 # Marketing Case Studies in Arab Markets (36 cases, 4 sectors)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23855962.svg)](https://doi.org/10.5281/zenodo.23855962)
+
 A structured dataset of 36 marketing case studies across four sectors — pharmaceutical (11), real estate (8), banking (8) and beverages (9) — compiled by **Dr. Mostafa Nawareg**, International Marketing Consultant, Corporate Trainer & Author.
 
 Each row codes one case into the same analytical structure: the problem, the strategic decision, the generalizable lesson, the framework dimension it illustrates, and the strength of the evidence behind it.
