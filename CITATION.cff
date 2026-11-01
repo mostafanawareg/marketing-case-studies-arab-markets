@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Marketing Case Studies in Arab Markets (36 cases, 4 sectors)"
+type: dataset
+authors:
+  - family-names: Nawareg
+    given-names: Mostafa
+    orcid: "https://orcid.org/0009-0007-8742-9270"
+    website: "https://mostafanawareg.com/"
+version: 1.0.0
+date-released: 2026-11-01
+license: CC-BY-4.0
+url: "https://mostafanawareg.com/"
+repository-code: "https://github.com/mostafanawareg/marketing-case-studies-arab-markets"
+keywords:
+  - marketing
+  - case studies
+  - Arab markets
+  - pharmaceutical marketing
+  - real estate marketing
+  - banking marketing
+  - beverages
+  - marketing strategy
+abstract: "A structured dataset of 36 marketing case studies in Arab markets across four sectors (pharmaceutical, real estate, banking and beverages), each coded by problem, strategic decision, generalizable lesson, framework dimension and evidence type, with links to the full Arabic case-study articles on mostafanawareg.com."
